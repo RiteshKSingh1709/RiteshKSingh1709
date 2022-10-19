@@ -2,6 +2,7 @@
 
 <!--
 **RiteshKSingh1709/RiteshKSingh1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![@riteshksingh1709's Holopin board](https://holopin.me/riteshksingh1709)](https://holopin.io/@riteshksingh1709)
 
 Here are some ideas to get you started:
 
